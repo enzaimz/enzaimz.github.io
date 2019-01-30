@@ -1,2 +1,3 @@
-# enzaimz.github.io
-Site of enziamz
+# enzaimz.github.io 
+A Software Catalyst Residency
+
